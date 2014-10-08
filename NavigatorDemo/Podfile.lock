@@ -1,0 +1,10 @@
+PODS:
+  - CTObjectiveCRuntimeAdditions (0.0.1)
+
+DEPENDENCIES:
+  - CTObjectiveCRuntimeAdditions
+
+SPEC CHECKSUMS:
+  CTObjectiveCRuntimeAdditions: 3a8fb73b328b228c403e5dce597d09757655edc8
+
+COCOAPODS: 0.33.1

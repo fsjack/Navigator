@@ -7,7 +7,7 @@
 
 #import "NSInvocation+Additions.h"
 #import <objc/runtime.h>
-#import <CTObjectiveCRuntimeAdditions/CTObjectiveCRuntime.h>
+#import <CTObjectiveCRuntimeAdditions/CTBlockDescription.h>
 
 @implementation NSInvocation (Additions)
 
